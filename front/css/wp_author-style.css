@@ -1,0 +1,5 @@
+/**
+ * Authors info container CSS
+ */
+.bn_container{width:100%;float:left;padding:15px;text-align:center}.bn_container h4{margin-top:10px;}.authors_info img{margin:0 10px 10px 0;float:left;border:1px solid #ccc;padding:1px;border-radius:8px}.authors_info .bio{text-align:justify}.bn_releted_posts li{text-align:left;float:left;margin:auto}.authors_info{margin-top:1em}.authors_info .icon{width:45px;height:35px;float:right;background-size:contain;background-repeat:no-repeat}.name{text-align:left;font-size:20px;font-weight:700;text-transform:capitalize}.authors_info .facebook{background-image:url(../img/fb.png)}.authors_info .linkedin{background-image:url(../img/lnk.png)}.gallery{text-align:center;margin:auto}.gallery a.bn_image{text-align:center;margin:auto;min-height:160px;padding:1em .5em}.gallery a.bn_image img{border:1px solid #ccc;padding:1px;border-radius:8px}
+@media screen and (max-width:560px){.bn_container{padding:8px}}
